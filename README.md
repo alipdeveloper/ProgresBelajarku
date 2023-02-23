@@ -20,6 +20,7 @@ Belajar kelas Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres
  * Penalaran logika induktif dan deduktif
  * Memahami gerbang logika pada pemrograman
  * Pengenalan dasar Computational Thinking  
+
 Belajar Dasar Git dengan Github (Progress 35%)
  * Pengenalan Git dan Github
  * Memahami dasar-dasar Git
